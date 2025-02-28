@@ -1,4 +1,4 @@
-# Fundamentos de Programación Orientada a Objetos (FPOO)-2025-Viernes
+# Fundamentos de Programación Orientada a Objetos (FPOO)-2025-Viernes.
 Curso de FPOO 2025 primer semestre del año, curso de los Viernes. Se suben códigos realizados en clase
 
 Este repositorio contiene los códigos desarrollados durante las clases de **Fundamentos de Programación Orientada a Objetos (FPOO)**.
